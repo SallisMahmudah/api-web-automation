@@ -1,0 +1,8 @@
+starter/pages/web/RegisterPage.class
+starter/CucumberTestSuite.class
+starter/Hooks.class
+utils/BDDStyleMethod.class
+starter/pages/Helper.class
+starter/TestInstrument.class
+starter/steps/web/HomeSteps.class
+starter/steps/api/ApiBase.class
